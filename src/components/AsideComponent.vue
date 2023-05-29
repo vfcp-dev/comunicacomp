@@ -1,0 +1,9 @@
+<template>
+  <aside>
+    <ul>
+      <li>opcion1</li>
+      <li>opcion2</li>
+      <li>opcion3</li>
+    </ul>
+  </aside>
+</template>
